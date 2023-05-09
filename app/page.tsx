@@ -63,7 +63,7 @@ export default async function Home() {
               </p>
               <div className="mt-11 mb-20">
                 <a href="/about-me" className="btn-main">
-                  Learn More
+                  Read More
                 </a>
               </div>
             </div>
